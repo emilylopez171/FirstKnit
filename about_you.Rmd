@@ -71,7 +71,11 @@ What grade do you need to attain in stats to not upset your future plans, What i
   I dont know if I've taken math 115 or 116. I found out math 116 counts as a statistics course after joining this class. Im hoping to get at least a C in order to to disrupt my future plans. I'm hoping to transfer to USC.
    
  
-
+git config --global user.name "emilylopez171"
+git config --global user.email "elopez171@Students.avc.edu"
+git config --global http.sslverify "false"
+git config --global core.autocrlf true
+git config --global credential.helper 'cache --timeout 3600
 
 
 
